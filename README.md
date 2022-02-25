@@ -8,7 +8,7 @@ Works on every Linux shell out there (it's *POSIX*).
 
 Runs in the background so it doesn't get in your way.
 
-You can use this for terminal integration with **Vim, Nano, Gedit, Emacs,** and so forth.
+You can use this for terminal integration with **Vim, Nano,** and so forth.
 
 ### Pre-requisites
 
